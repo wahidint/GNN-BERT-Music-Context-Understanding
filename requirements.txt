@@ -1,0 +1,11 @@
+torch
+torch-geometric
+transformers
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+librosa
+networkx
+jupyter
