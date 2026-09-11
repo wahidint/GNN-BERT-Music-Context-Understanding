@@ -1,0 +1,6 @@
+{
+    "CNN_MelSpectrogram": {
+        "status": "implemented",
+        "evaluation_status": "requires_audio_melspectrogram_dataset"
+    }
+}

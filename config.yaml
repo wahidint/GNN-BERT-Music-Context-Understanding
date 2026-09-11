@@ -1,0 +1,33 @@
+# GNN-BERT Music Context Understanding Configuration
+
+project:
+  name: GNN_BERT_Music_Context
+
+dataset:
+  audio_dataset: FMA
+  text_dataset: MusicCaps
+  num_classes: 8
+
+training:
+  batch_size: 16
+  epochs: 10
+  learning_rate: 0.0001
+  optimizer: Adam
+
+models:
+  bert:
+    name: bert-base-uncased
+    max_length: 128
+
+  gnn:
+    type: GraphSAGE
+    hidden_dim: 128
+    layers: 2
+
+  fusion:
+    type: cross_attention
+    hidden_dim: 256
+
+paths:
+  graph_data: data/processed/graphs
+  results: results

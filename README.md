@@ -308,3 +308,7 @@ Department of Computer Science and Engineering
 3. Hamilton et al., "Inductive Representation Learning on Large Graphs", NeurIPS, 2017.
 
 4. Agostinelli et al., "MusicCaps: A Dataset for Music Description", ISMIR, 2023.
+
+## Authors
+- Adnan Wahid
+- Aurora Bintay Mostafa

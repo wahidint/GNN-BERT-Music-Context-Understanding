@@ -1,0 +1,35 @@
+# Dataset Information
+
+## MusicCaps Dataset
+
+The MusicCaps dataset was used for the BERT-based music context understanding task.
+
+It contains:
+- Audio clips
+- Human-written music captions
+- Semantic descriptions of musical characteristics
+
+The dataset was used for:
+- BERT-based multi-label classification
+- Textual music context understanding
+
+
+## Free Music Archive (FMA) Dataset
+
+The FMA dataset was used for graph-based music representation learning.
+
+It contains:
+- Music tracks
+- Genre labels
+- Audio features
+
+The dataset was used for:
+- GNN-based structural learning
+- Music genre classification
+
+
+## Dataset Availability
+
+The original datasets are not included in this repository because of their large size.
+
+The datasets should be downloaded separately before running the notebook.
