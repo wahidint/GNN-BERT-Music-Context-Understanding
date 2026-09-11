@@ -311,4 +311,4 @@ Department of Computer Science and Engineering
 
 ## Authors
 - Adnan Wahid
-- Aurora Bintay Mostafa
+- Aurora Bintay Mostafa 
